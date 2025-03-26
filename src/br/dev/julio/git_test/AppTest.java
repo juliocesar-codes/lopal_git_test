@@ -7,6 +7,9 @@ public class AppTest {
 		System.out.println("Olá mundo!");
 		System.out.println("SENAI JANDIRA");
 		System.out.println("Turma DS1T-A");
+		System.out.println("Turma DS1T-A");
+		System.out.println("Turma DS1T-A");
+		System.out.println("Turma DS1T-A");
 	}
 
 }
